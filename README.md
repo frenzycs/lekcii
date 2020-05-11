@@ -1,1 +1,2 @@
 # lekcii
+print('hello, world')
